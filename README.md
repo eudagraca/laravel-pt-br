@@ -11,7 +11,7 @@ $ git clone -b {TAG} https://github.com/wendtecnologia/laravel-pt-br.git ./pt-br
 
 ### 2 - Configurar o Framework para utilizar a linguagem como Default
 ```php
-  // Linha 55 do arquivo config/app.php
+  // Linha 68 do arquivo config/app.php
   'locale' => 'pt-br',
 ```
 
