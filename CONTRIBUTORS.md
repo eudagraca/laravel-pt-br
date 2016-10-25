@@ -13,3 +13,20 @@
   * Adicionado a mensagem de erro para o tipo string que estava faltando.
   * correção da mensagem
   * Adicionado mensagem de validação para o tipo 'json'.
+
+## Laravel 5.2
+* **[Felipe Porto](https://github.com/felipeporto)**
+  * Update README.md
+  * Update passwords.php
+  * Update validation.php
+  * Instruções para remoção do diretório .git após instalação
+  * Update README.md
+
+* **[Giovanni Pires da Silva](https://github.com/giovannipds)**
+  * Correção do link de instalação, no readme.
+
+* **[Antonio Ruby Barreto](https://github.com/tom-rb)**
+  * Trocando frases iniciadas por :attribute para maiúscula
+
+* **[Simonarde Lima](https://github.com/simonardejr)**
+  * pequenas alterações nas strings
