@@ -34,3 +34,7 @@
 ## Laravel 5.3
 * **[Leandro Santiago Gomes](https://github.com/leandroluk)**
   * atualizações para laravel 5.3
+
+## Laravel 5.4
+* **[Walker de Alencar](https://github.com/walkeralencar)**
+  * Ajustes e atualizações para laravel 5.4
