@@ -30,3 +30,7 @@
 
 * **[Simonarde Lima](https://github.com/simonardejr)**
   * pequenas alterações nas strings
+
+## Laravel 5.3
+* **[Leandro Santiago Gomes](https://github.com/leandroluk)**
+  * atualizações para laravel 5.3
