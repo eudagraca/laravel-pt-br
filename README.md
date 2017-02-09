@@ -3,7 +3,7 @@
 ## Instalação
 
 ### 1 - Clonar o projeto na pasta `resources/lang/`
-> substituir {TAG} pela versão do laravel: **5.1**, **5.2**, **5.3**
+> substituir {TAG} pela versão do laravel: **5.1**, **5.2**, **5.3** ou **5.4**
 ```bash
 $ cd resources/lang/
 $ git clone -b {TAG} https://github.com/wendtecnologia/laravel-pt-br.git ./pt-br
